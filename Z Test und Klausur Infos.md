@@ -32,3 +32,13 @@ Hinweise:
 - Herausforderungen von Cloud Computing genau anschauen
 - On Premise -> we
 - Beispiele anschauen mit Mietauto etc.
+
+Probeklausur Fragen:
+Was sind “Server-Festungen”, wodurch entstehen sie und warum sind sie ein Problem für den Betrieb?
+Wodurch entstehen lange Bereitstellungszeiten beim traditionellen on-premise Betrieb und was sind die gewollten Auswirkungen hiervon?
+Beschreiben Sie den Begriff “Skalierung” und erläutern Sie jeweils ein Anwendungsbeispiel Scale-Out und Scale-Up.
+Erläutern Sie, wie Skaleneffekte beim Cloud Computing im Hinblick auf Ausfallsicherheit realisiert werden können.
+Sam Newman stellte in einem populären Tweet die Frage, ob durch die Schichtenbildung die Wartungskomplexität erhöht wird. Erläutern Sie **drei** Vorteile, die durch die Schichtenbildung erzielt werden können.
+Welche Dienstleistungsstufe des Cloud Computing hat Parallelen zum Mieten eines Autos und warum ?
+Erläutern Sie ein Vorteile und zwei Herrausforderungen einer Hybrid Cloud
+Erläutern Sie den Unterschied zwischen Edge Computing und einer Private Cloud in Bezug auf den Anwendungsfokus
