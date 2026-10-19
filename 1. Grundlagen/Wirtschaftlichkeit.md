@@ -1,0 +1,9 @@
+- On-Premise: 
+		- Nutzungsabhängige Kosten: Hohes initiales Investment, Lineare Abschreibung, Laufende Kisten
+		- Auslastung: hohe Opportunitätskosten (sehr hoch im ersten Jahr, Auslastung bei 30%), Investment in unsichere Auslastung, Leerlauf wird in Kauf genommen, Weiterverwendung nach Abschreibung
+	- Cloud:
+		- Massive Reduktion von initialen Kosten, nur Aufwandskosten
+		- Nutzungsabhängig: Variabilisierung der Fixkosten, On-Demand Leistungspakete, Planungsflexibilität
+	- Sichtbare vs. Unsichtbare Kosten
+		- Cloud: Sichtbar: Nutzungsentgeld, Einrichtung; Unsichtbar: Kundenspezifische Anpassungen
+		- On-premise: Sichtbar: Kauf Hard-& Software,.. Unsichtbar: Ausfallzeiten, Personalkosten, Schulungen,...

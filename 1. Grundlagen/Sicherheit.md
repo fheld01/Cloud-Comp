@@ -1,0 +1,8 @@
+- Ungewollter Abfluss von Daten
+		- **Fehlerhafte Konfiguration** von Gruppenrichtlinien und Zugriffsrechten des Cloud Datenspeichers ermöglicht Dritten direkten Zugriff
+	- Unautorisierte Nutzung von APIs
+		- Viele Betriebe kämpfen mit der **Authentifizierung und Autorisierung von APIs** für Programmierer und Fachabteilungen. Infolgedessen können Angreifer Programmcode abgreifen und geschützte Funktionen ausführen
+	- Unzureichendes Zugriffsmanagement
+		- Aufgrund des Wegfalls von räumlichen Beschränkungen wirken sich Defizite im Zugriffsmanagement (bspw. Löschung von inaktiven Nutzern, Unbekannte Adminrollen, veraltete Zugriffsrechte, etc.) gravierend aus
+	- Weltweit verstreute Angreifer
+		- Aufgrund des globalen Zugriffs wirken sich unzureichend gepatchte Betriebssysteme und Bibliotheken deutlich gravierender aus als bei räumlich eingeschränktem Zugriff

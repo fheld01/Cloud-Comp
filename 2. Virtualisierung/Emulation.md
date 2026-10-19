@@ -1,0 +1,5 @@
+- Stellt gleiche Funktionen nach, aber ohne die interne Logik zu verwenden
+- Interne Wirkzusammenhänge werden ggf. angepasst
+- Praxistauglich: Emulator kann nachgebildetes System ersetzen
+- Beispiel: WSL1, JVM, Rosetta 1 &2, virtuelle Netzwerk-karte
+-> 

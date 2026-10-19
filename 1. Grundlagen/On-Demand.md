@@ -1,0 +1,5 @@
+- radikaler Wechsel von Bereitstellungsprozess 
+- einfaches Webinterface, unmittelbare Bereitstellung
+- Anpassung von Konfigurationen (CPU,...); flexibel
+- Experementiermöglichkeiten: innovative Funktionen sind leicht zu pivotieren
+- Bedarf von Alternativbelegung

@@ -1,0 +1,1 @@
+- innovative Funktionen: Bilderkennung (Auswertung von Bildinhalte und Bauen von 3D Modellen), Spracherkennung (semantische Zusammenhänge), Inhaltsmoderation (zb Rassismus wird erkennt), Allgemeiner KI

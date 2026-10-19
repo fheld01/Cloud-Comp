@@ -1,0 +1,6 @@
+- Realisierung von Skaleneffekten in Bezug auf Leistung, Netzwerksicherheit und Ausfallsicherheit. 
+	- Skaleneffekte beschreiben die Kostenvorteile, die ein Unternehmen durch sinkende Kosten pro hergestelltem Gut erzielen kann
+	- Um attraktive Cloud Computing Rechenleistung anzubieten sind hohe Investitionen in die Infrastruktur notwendig -> Durch leistungsfähige Recheninfrastruktur werden neue Kunden angezogen -> Die hohen Kosten können auf steigende Cloud Dienstleistungen umgelegt werden, wodurch sich die Stückkosten reduzieren. 
+	- Um eine hohe Netzwerksicherheit zu gewährleisten sind hohe Investition in Personal und Infrastruktur notwendig -> Durch die Sicherheitsfunktionen werden neue Kunden angezogen -> Die hohen Kosten in Netzwerksicherheit können auf steigende Cloud Dienstleistungen umgelegt werden, wodurch sich die Stückkosten reduzieren. 
+	- Um eine hohe Ausfallsicherheit zu gewährleisten sind hohe Investitionen in Personal und Infrastruktur notwendig -> Durch die gesteigerte Ausfallsicherheit werden neue Kunden angezogen -> Die hohen Kosten in Ausfallsicherheit können auf steigende Cloud Dienstleistungen umgelegt werden, wodurch sich die Stückkosten reduzieren.
+![[Pasted image 20261002151048.png]]

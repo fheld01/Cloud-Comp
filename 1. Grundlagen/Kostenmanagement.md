@@ -1,0 +1,8 @@
+- Management und Controlling der Kosten als zentrale Herausforderungen für Unternehmen
+	- Verschiedene Umfragen belegen, dass die tatsächlichen Kosten, die durch Cloud Computing verursacht werden, zum Teil deutlich (bis zu 100%) über den Planungen liegen
+	- Führt Cloud Computing tatsächlich zu Kosteneinsparungen?
+	- Mögliche Ursachen:
+		- Der **Erfolg der Cloud-Projekte** führt zu **hohem Bedarf** an Cloud-Ressourcen
+		- **Attraktivität** der Cloud-Ressourcen für Entwickler
+		- Verwendung von CC für **nicht passende Anwendungsgebiete**
+		- Nicht mehr benötigte Cloud-Ressourcen werden **nicht gelöscht/freigegeben**

@@ -1,0 +1,2 @@
+- nicht Russland, kein Zentralasien, stark persischer Golf, west und ost Küste USA, Südost Australien
+- Ermöglichung von minimaler Latenz 

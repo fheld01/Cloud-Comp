@@ -1,0 +1,5 @@
+- Vollständige Nachbildung eines Systems durch Software
+- Wirkzusammenhänge der Systemkomponenten werden nachgebildet
+- Nicht für Praxiseinsatz gedacht, sondern für Erkenntnisgewinn
+- Beispiel: Flugsimulator, Wetterberechnung, iPhone Simulator
+-> Wissen extrahieren durch Nachbildung in Software

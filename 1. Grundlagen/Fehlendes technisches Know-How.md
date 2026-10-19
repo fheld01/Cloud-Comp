@@ -1,0 +1,17 @@
+- CC erfordert neue Konzepte zum Infrastrukturmanagement
+		- Mutable Infrastructure:
+			- Traditionelle Vorgehensweise 
+			- Infrastruktur wird nach Deployment händisch verändert (Update, neue Ports, Backup, etc.). 
+			- Dokumentation der Änderungen optional 
+			- Folge: Undokumentierter Zustand, Schneeflocken-Effekt, Serverfestungen.
+		- Immutable Infrastructure:
+			- Neue Vorgehensweise 
+			- Infrastrukturkonfiguration findet im Code statt
+			- Es gibt keine nicht codierte Infrastrukturveränderung 
+			- Folge: Aufbau von Expertise und Infrastrukturkonfiguration. 
+			- Bsp.: Ansible, Puppet, Docker, K8s
+- CC erfordert umfassende Code-Automatisierungen für Softwareprojekte
+	- **Continuous Integration:** Automatisierte Durchführung statischer Codeanalyse, Buildskripte, sowie von Unit-, Integrations- und Systemtests.
+	- **Continuous Delivery:** Baut auf Continuous Integration auf und automatisiert die Auslieferung der An wendung. Vorbereitung des Deployments 
+	- **Continuous Deployment:** Baut auf Continuous Delivery auf und automatisiert die Inbetriebnahme
+![[Pasted image 20261002160244.png]]

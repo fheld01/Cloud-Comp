@@ -1,0 +1,3 @@
+- Einhaltung gesetzlicher Vorgaben (DSGVO -> Region von Datenspeicherung)
+	- Durchsetzung von Qualitätsstandards (Dezentrale Bestellung: Einhaltung von Übersetzungen, andere Regeln -> Kontrollverlust)
+	- Umsetzung von Synergien (Projektverzeichniss unzureichend gepflegt)
